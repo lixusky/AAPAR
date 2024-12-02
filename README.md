@@ -1,2 +1,2 @@
-# ARPAR
-ARPAR: Learning Triple Relations network using CLIP for Pedestrian Attribute Recognition
+# AAPAR
+AAPAR: CLIP-based Adaptation and Alignment for Pedestrian Attribute Recognition
